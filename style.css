@@ -79,7 +79,7 @@ margin: 25px auto;
 }
 .links{
 float: left;
-color: red;
+color:red;
 font-family: fantasy;
 padding-top: 5px;
 padding-bottom: 5px;
@@ -91,4 +91,5 @@ font-size: 20px;
 }
 .links:hover{
     background-color:yellow;
+    color: black;
 }
